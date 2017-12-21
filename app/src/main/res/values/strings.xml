@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Modulador AM-DSB</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_informacao">Informação</string>
+    <string name="title_portadora">Portadora</string>
+    <string name="title_modulado">Modulado</string>
+    <string name="title_configuracoes">Configuracões</string>
+    <string name="main_float_button">+</string>
+    <string name="title_activity_config">Configurações</string>
+
+    <string name="pref_title_amplitude">Amplitude (Vp)</string>
+    <string name="pref_title_frequencia">Frequência (Hz)</string>
+    <string name="title_plus">Mais configurações</string>
+    <string name="pref_title_nivel_dc">Nível DC (V)</string>
+    <string name="pref_title_tempo_maximo">Tempo máximo (s)</string>
+
+    <string name="pref_default_info_amplitude">2</string>
+    <string name="pref_default_info_frequencia">40</string>
+    <string name="pref_default_portadora_amplitude">6</string>
+    <string name="pref_default_portadora_frequencia">750</string>
+    <string name="pref_default_plus_nivel_dc">4</string>
+    <string name="pref_default_plus_tempo_maximo">5</string>
+</resources>

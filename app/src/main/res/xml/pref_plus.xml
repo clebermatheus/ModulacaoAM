@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_plus_nivel_dc"
+        android:inputType="numberDecimal"
+        android:key="plus_nivel_dc"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_nivel_dc"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_plus_tempo_maximo"
+        android:inputType="numberDecimal"
+        android:key="plus_tempo_maximo"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_tempo_maximo"/>
+</PreferenceScreen>

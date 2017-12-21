@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_informacao"
+        android:icon="@drawable/ic_info_white_24dp"
+        android:title="@string/title_informacao"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_portadora"
+        android:icon="@drawable/ic_equalizer_white_24dp"
+        android:title="@string/title_portadora"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_modulado"
+        android:icon="@drawable/ic_graphic_eq_white_24dp"
+        android:title="@string/title_modulado"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_config"
+        android:icon="@drawable/ic_settings_white_24px"
+        android:title="@string/title_configuracoes"
+        app:showAsAction="ifRoom"/>
+</menu>
